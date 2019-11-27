@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @SpringBootApplication
-@EnableWebMvc
+@EnableAutoConfiguration
 public class SpringRestPrometheusApplication extends SpringBootServletInitializer {
 
 		public static void main(String[] args) {
