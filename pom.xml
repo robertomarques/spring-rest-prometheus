@@ -56,11 +56,12 @@
 			<version>2.0.3</version>
 		</dependency>
 		
+		<!-- https://mvnrepository.com/artifact/io.opentracing.contrib/opentracing-jdbc -->
 		<dependency>
 		    <groupId>io.opentracing.contrib</groupId>
 		    <artifactId>opentracing-jdbc</artifactId>
-		    <version>0.32.0</version>
-		</dependency>
+		    <version>0.2.2</version>
+		</dependency>		
 
 		<dependency>
 			<groupId>com.h2database</groupId>
