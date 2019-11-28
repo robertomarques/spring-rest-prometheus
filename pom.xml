@@ -49,9 +49,6 @@
 				<scope>provided</scope>
 			</dependency>
 
-
-
-
 		<!-- https://mvnrepository.com/artifact/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter -->
 		<dependency>
 			<groupId>io.opentracing.contrib</groupId>
