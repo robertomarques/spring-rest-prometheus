@@ -1,2 +1,2 @@
-# spring-rest-prometheus
-Sample spring boot with prometheus and Jaeger
+# Spring-Rest-Prometheus
+Sample spring boot with Prometheus and Jaeger  - Open Tracing
