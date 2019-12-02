@@ -8,6 +8,8 @@ https://www.jaegertracing.io/docs/1.15/operator/#installing-the-operator-on-okd-
 **Deploy da API no Openshift**
 https://github.com/openshift-s2i/s2i-wildfly
 
+**Docker Compose Prometheus + Grafana**
+https://raw.githubusercontent.com/robertomarques/spring-rest-prometheus/master/docker/prometheus_grafana/docker-compose.yml
 
 
 
